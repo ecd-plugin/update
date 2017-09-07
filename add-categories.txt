@@ -1,0 +1,53 @@
+If category information is missing in content.jar [1], proceed as following:
+
+$ jar xf content.jar content.xml
+
+Add to content.xml:
+
+    <unit id='Eclipse Class Decompiler (Core)' version='1.0.0.47I-cJWjHh7735G3I5C'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='Eclipse Class Decompiler (Core)'/>
+        <property name='org.eclipse.equinox.p2.description' value='Eclipse Class Decompiler integrates JD, Jad, FernFlower, CFR, Procyon with Eclipse seamlessly. It allows Java developers to debug class files without source code directly.'/>
+        <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='Eclipse Class Decompiler (Core)' version='1.0.0.47I-cJWjHh7735G3I5C'/>
+      </provides>
+      <requires size='1'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sf.feeling.decompiler.feature.group' range='[3.0.0.201709070937,3.0.0.201709070937]'/>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>    
+    <unit id='Eclipse Class Decompiler (Optional)' version='1.0.0.7J8Y-cJWhMb7cITNJXT4'>
+      <properties size='3'>
+        <property name='org.eclipse.equinox.p2.name' value='Eclipse Class Decompiler (Optional)'/>
+        <property name='org.eclipse.equinox.p2.description' value='Eclipse Class Decompiler integrates JD, Jad, FernFlower, CFR, Procyon with Eclipse seamlessly. It allows Java developers to debug class files without source code directly.'/>
+        <property name='org.eclipse.equinox.p2.type.category' value='true'/>
+      </properties>
+      <provides size='1'>
+        <provided namespace='org.eclipse.equinox.p2.iu' name='Eclipse Class Decompiler (Optional)' version='1.0.0.7J8Y-cJWhMb7cITNJXT4'/>
+      </provides>
+      <requires size='5'>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sf.feeling.decompiler.jad.feature.group' range='[3.0.0.201709070937,3.0.0.201709070937]'>
+          <filter>
+            (&amp;(|(osgi.arch=x86)(osgi.arch=x86_64))(|(osgi.os=linux)(osgi.os=macosx)(osgi.os=win32)))
+          </filter>
+        </required>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sf.feeling.decompiler.cfr.feature.group' range='[3.0.0.201709070937,3.0.0.201709070937]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sf.feeling.decompiler.source.feature.group' range='[3.0.0.201709070937,3.0.0.201709070937]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sf.feeling.decompiler.procyon.feature.group' range='[3.0.0.201709070937,3.0.0.201709070937]'/>
+        <required namespace='org.eclipse.equinox.p2.iu' name='org.sf.feeling.decompiler.jd.feature.group' range='[3.0.0.201709070937,3.0.0.201709070937]'>
+          <filter>
+            (&amp;(|(osgi.arch=x86)(osgi.arch=x86_64))(|(osgi.os=linux)(osgi.os=macosx)(osgi.os=win32)))
+          </filter>
+        </required>
+      </requires>
+      <touchpoint id='null' version='0.0.0'/>
+    </unit>
+    
+update version numbers and increase size param of <units> by 2
+ 
+$ jar uf content.jar content.xml
+
+[1] https://bugs.eclipse.org/bugs/show_bug.cgi?id=278673
+
