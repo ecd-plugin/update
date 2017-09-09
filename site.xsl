@@ -14,7 +14,7 @@
 					<h1 class="title">Enhanced Class Decompiler Project Update</h1>
 					<p class="bodyText">
 						<xsl:value-of select="description" />
-						<a href="https://pbi-qfs.github.io/ecd">Enhanced Class Decompiler</a> plug-in, Copyright (c) 2017 Chen Chao and other ECD project members.
+						<a href="https://ecd-plugin.github.io">Enhanced Class Decompiler</a> plug-in, Copyright (c) 2017 Chen Chao and other ECD project members.
 						<br />
 						<br />
 					</p>
