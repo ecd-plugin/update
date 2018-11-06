@@ -3,22 +3,22 @@
    <description name="Enhanced Class Decompiler Project Update" url="https://ecd-plugin.github.io/update">
       Enhanced Class Decompiler project update site.
    </description>
-   <feature url="features/org.sf.feeling.decompiler_3.1.0.201807021924.jar" id="org.sf.feeling.decompiler" version="3.1.0.qualifier">
+   <feature url="features/org.sf.feeling.decompiler_3.1.1.201811062102.jar" id="org.sf.feeling.decompiler" version="3.1.1.qualifier">
       <category name="Enhanced Class Decompiler (Core)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.cfr_3.1.0.201807021924.jar" id="org.sf.feeling.decompiler.cfr" version="3.1.0.qualifier">
+   <feature url="features/org.sf.feeling.decompiler.cfr_3.1.1.201811062102.jar" id="org.sf.feeling.decompiler.cfr" version="3.1.1.qualifier">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.jad_3.1.0.201807021924.jar" id="org.sf.feeling.decompiler.jad" version="3.1.0.qualifier" os="linux,macosx,win32" arch="x86,x86_64">
+   <feature url="features/org.sf.feeling.decompiler.jad_3.1.1.201811062102.jar" id="org.sf.feeling.decompiler.jad" version="3.1.1.qualifier" os="linux,macosx,win32" arch="x86,x86_64">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.jd_3.1.0.201807021924.jar" id="org.sf.feeling.decompiler.jd" version="3.1.0.qualifier" os="linux,macosx,win32" arch="x86,x86_64">
+   <feature url="features/org.sf.feeling.decompiler.jd_3.1.1.201811062102.jar" id="org.sf.feeling.decompiler.jd" version="3.1.1.qualifier" os="linux,macosx,win32" arch="x86,x86_64">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.procyon_3.1.0.201807021924.jar" id="org.sf.feeling.decompiler.procyon" version="3.1.0.qualifier">
+   <feature url="features/org.sf.feeling.decompiler.procyon_3.1.1.201811062102.jar" id="org.sf.feeling.decompiler.procyon" version="3.1.1.qualifier">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.source_3.1.0.201807021924.jar" id="org.sf.feeling.decompiler.source" version="3.1.0.qualifier">
+   <feature url="features/org.sf.feeling.decompiler.source_3.1.1.201811062102.jar" id="org.sf.feeling.decompiler.source" version="3.1.1.qualifier">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
    <category-def name="Enhanced Class Decompiler (Core)" label="Enhanced Class Decompiler (Core)">
