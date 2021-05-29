@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.sf.feeling.decompiler_3.2.1.202104251601.jar" id="org.sf.feeling.decompiler" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler_3.2.2.jar" id="org.sf.feeling.decompiler" version="3.2.2">
       <category name="org.sf.feeling.decompiler.core"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.cfr_3.2.1.202104251601.jar" id="org.sf.feeling.decompiler.cfr" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.cfr_3.2.2.jar" id="org.sf.feeling.decompiler.cfr" version="3.2.2">
       <category name="org.sf.feeling.decompiler.plugins"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.jad_3.2.1.202104251601.jar" id="org.sf.feeling.decompiler.jad" version="3.2.2" os="linux,macosx,win32" arch="x86,x86_64">
+   <feature url="features/org.sf.feeling.decompiler.jad_3.2.2" id="org.sf.feeling.decompiler.jad" version="3.2.2" os="linux,macosx,win32" arch="x86,x86_64">
       <category name="org.sf.feeling.decompiler.plugins"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.jd_3.2.1.202104251601.jar" id="org.sf.feeling.decompiler.jd" version="3.2.2" os="linux,macosx,win32" arch="x86,x86_64">
+   <feature url="features/org.sf.feeling.decompiler.jd_3.2.2" id="org.sf.feeling.decompiler.jd" version="3.2.2">
       <category name="org.sf.feeling.decompiler.plugins"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.procyon_3.2.1.202104251601.jar" id="org.sf.feeling.decompiler.procyon" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.procyon_3.2.2" id="org.sf.feeling.decompiler.procyon" version="3.2.2">
       <category name="org.sf.feeling.decompiler.plugins"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.source_3.2.1.202104251601.jar" id="org.sf.feeling.decompiler.source" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.source_3.2.2" id="org.sf.feeling.decompiler.source" version="3.2.2">
       <category name="org.sf.feeling.decompiler.plugins"/>
    </feature>
    <category-def name="org.sf.feeling.decompiler.core" label="Enhanced Class Decompiler"/>
