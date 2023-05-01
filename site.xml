@@ -3,32 +3,32 @@
    <description name="Enhanced Class Decompiler Project Update" url="https://ecd-plugin.github.io/update">
       Enhanced Class Decompiler project update site.
    </description>
-   <feature url="features/org.sf.feeling.decompiler.cfr_3.2.2.jar" id="org.sf.feeling.decompiler.cfr" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.cfr_3.3.0.jar" id="org.sf.feeling.decompiler.cfr" version="3.3.0">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.jad_3.2.2.jar" id="org.sf.feeling.decompiler.jad" version="3.2.2" os="linux,macosx,win32" arch="x86,x86_64">
+   <feature url="features/org.sf.feeling.decompiler.quiltflower_3.3.0.jar" id="org.sf.feeling.decompiler.quiltflower" version="3.3.0">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.jd_3.2.2.jar" id="org.sf.feeling.decompiler.jd" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.jd_3.3.0.jar" id="org.sf.feeling.decompiler.jd" version="3.3.0">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.procyon_3.2.2.jar" id="org.sf.feeling.decompiler.procyon" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.procyon_3.3.0.jar" id="org.sf.feeling.decompiler.procyon" version="3.3.0">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler.source_3.2.2.jar" id="org.sf.feeling.decompiler.source" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler.source_3.3.0.jar" id="org.sf.feeling.decompiler.source" version="3.3.0">
       <category name="Enhanced Class Decompiler (Optional)"/>
    </feature>
-   <feature url="features/org.sf.feeling.decompiler_3.2.2.jar" id="org.sf.feeling.decompiler" version="3.2.2">
+   <feature url="features/org.sf.feeling.decompiler_3.3.0.jar" id="org.sf.feeling.decompiler" version="3.3.0">
       <category name="Enhanced Class Decompiler (Core)"/>
    </feature>
    <category-def name="Enhanced Class Decompiler (Core)" label="Enhanced Class Decompiler (Core)">
       <description>
-         Enhanced Class Decompiler integrates JD, Jad, FernFlower, CFR, Procyon with Eclipse seamlessly. It allows Java developers to debug class files without source code directly.
+         Enhanced Class Decompiler integrates JD, Jad, FernFlower, Quiltflower, CFR, Procyon with Eclipse seamlessly. It allows Java developers to debug class files without source code directly.
       </description>
    </category-def>
    <category-def name="Enhanced Class Decompiler (Optional)" label="Enhanced Class Decompiler (Optional)">
       <description>
-         Enhanced Class Decompiler integrates JD, Jad, FernFlower, CFR, Procyon with Eclipse seamlessly. It allows Java developers to debug class files without source code directly.
+         Enhanced Class Decompiler integrates JD, Jad, FernFlower, Quiltflower, CFR, Procyon with Eclipse seamlessly. It allows Java developers to debug class files without source code directly.
       </description>
    </category-def>
 </site>
