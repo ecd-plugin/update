@@ -1,0 +1,57 @@
+Signature-Version: 1.0
+Created-By: 11.0.14.1 (Eclipse Adoptium)
+SHA-256-Digest-Manifest: X9iqWcXiKwkP7GhtV+Ko2jKeEQANJr4fvuCy6tDumZI=
+SHA-256-Digest-Manifest-Main-Attributes: vdDB1tZTtgqUyOrMFzY4kI3fwUEiUQP
+ sDPg8eCARlQY=
+
+Name: plugins/org.sf.feeling.decompiler.source.attach_3.3.0.jar
+SHA-256-Digest: zoXOqfrOvLlWUghYg+hUwqcmJwjc2xMjd/vqZ28pcpE=
+
+Name: features/org.sf.feeling.decompiler.cfr_3.3.0.jar
+SHA-256-Digest: WkuzWFHoNbySS0x8piul3PMjIWfxFvpB8U7y0TjLmC4=
+
+Name: features/org.sf.feeling.decompiler.quiltflower_3.3.0.jar
+SHA-256-Digest: 5MdoBGpoJKVEfc9TNsiGrobc0eGiHJ4Cdh8vYi4Z2xI=
+
+Name: content.xml.xz
+SHA-256-Digest: O7TzgF8Gk1A1ub+7Zy687YhJNaMOOtFa2O/veqnDznk=
+
+Name: plugins/org.sf.feeling.decompiler.quiltflower_3.3.0.jar
+SHA-256-Digest: 3a1JiIGuDj3na69ZCH+PB+OBzlaoYvwtM+Zrd1ZRO30=
+
+Name: features/org.sf.feeling.decompiler.procyon_3.3.0.jar
+SHA-256-Digest: 1JUZQAk+a6FLUb1MUQvMlPymTzOXcJ0LNe7Tz9Gh3Jg=
+
+Name: plugins/org.sf.feeling.decompiler.cfr_3.3.0.jar
+SHA-256-Digest: 1QjQbImtNdnr+uCwiGEuikTCkdOFmtbKzsL6Fk32dh0=
+
+Name: plugins/org.sf.feeling.decompiler.jd_3.3.0.jar
+SHA-256-Digest: qSxMwzGCaL5E+BcTsYYd+6EnSRGkC3B0SVAnJTDV8WQ=
+
+Name: artifacts.xml.xz
+SHA-256-Digest: 1i++NBehFVIYxMKW2fME+Vu2wOxtUkbbXg9y+dBXtek=
+
+Name: plugins/org.sf.feeling.decompiler.procyon_3.3.0.jar
+SHA-256-Digest: +zyByGPkAZMqAPBUegvb31igmK+cllO+/0a2gWCM8Hw=
+
+Name: artifacts.jar
+SHA-256-Digest: sX5MdtvGvRJwt+ECIjXbdK8Jdi4lvTb7AAlhxYKW1aQ=
+
+Name: p2.index
+SHA-256-Digest: yJ4YvEip3XbkT2gV4sqRyDjgavoak1eiEchGTpOqs1Y=
+
+Name: features/org.sf.feeling.decompiler.jd_3.3.0.jar
+SHA-256-Digest: JJEeKvwN49C4zhpdMa49kupkN43xcJRRpiTOvbhna/Q=
+
+Name: features/org.sf.feeling.decompiler_3.3.0.jar
+SHA-256-Digest: X5ycLNNNTpkdZfzzBCTzJ7g0lcLEYj6WtdfqODrVoI8=
+
+Name: content.jar
+SHA-256-Digest: 3/csEMrDkifXlRQ+dP2LwsTccEBK6q1We/2hHs6z4DE=
+
+Name: plugins/org.sf.feeling.decompiler_3.3.0.jar
+SHA-256-Digest: 3QxTMqMX3X38KfB2LW8PLat3G6ZxmHyQeNDCSsgF14E=
+
+Name: features/org.sf.feeling.decompiler.source_3.3.0.jar
+SHA-256-Digest: H4o3JU/ffWdJThlQkSw1/MQuEEKPmJI3EoxsJbnZZ3Y=
+
